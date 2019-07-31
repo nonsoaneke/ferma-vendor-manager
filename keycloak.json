@@ -1,8 +1,8 @@
 {
-    "realm": "ManagementApp",
-    "auth-server-url": "http://localhost:8080/auth",
-    "ssl-required": "external",
-    "resource": "manager",
-    "public-client": true,
-    "confidential-port": 0
-  }
+  "realm": "ManagementApp",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "manager",
+  "public-client": true,
+  "confidential-port": 0
+}

@@ -1,0 +1,12 @@
+[{
+    "name": "HR",
+    "description": "This is the API that manages people working for FERMA"
+},
+{
+    "name": "EIS",
+    "description": "This is the API that manages people working for FERMA"
+},
+{
+    "name": "PDMS",
+    "description": "This is the API that manages people working for FERMA"
+}]
