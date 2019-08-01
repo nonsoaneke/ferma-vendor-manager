@@ -1,15 +1,15 @@
 <div class="row">
     <div class="col-sm-12 col-md-4"></div>
     <div class="col-sm-12 col-md-8">
-        <form action="/admin/project" method="POST">
+        <form action="/admin" method="POST" enctype="multipart/form-data">
             <div class="form-group">
                 <input type="text" class="form-control" name="name" placeholder="Project Name">
             </div>
             <div class="form-group">
-                <textarea name="" id="project" cols="30" rows="10" class="form-control"></textarea>
+                <textarea name="description" id="project" cols="30" rows="10" class="form-control"></textarea>
             </div>
             <div class="form-group">
-                <input type="file" class="form-control" name="projectFile" />
+                <input type="file" class="form-control" name="projectSpec" />
             </div>
             <button class="btn btn-primary btn-sm">Submit</button>
         </form>

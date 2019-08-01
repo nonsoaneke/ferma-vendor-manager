@@ -6,4 +6,7 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
+router.get('/vendorView', (req, res, next) => {
+  res.render('apis');
+});
 module.exports = router;

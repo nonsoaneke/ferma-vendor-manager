@@ -4,5 +4,16 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: black;
+  font-size: 1.5em;
+}
+/* .page-header {
+  
+} */
+.media-body {
+  font-size: .9em;
+}
+
+.bump-up {
+  margin-top: 10px;
 }
