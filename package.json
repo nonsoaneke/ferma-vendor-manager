@@ -17,6 +17,6 @@
     "mongoose": "^5.6.7",
     "morgan": "~1.9.0",
     "multer": "^1.4.2",
-    "swagger-ui-dist": "^3.23.3"
+    "swagger-ui-dist": "^4.1.3"
   }
 }
